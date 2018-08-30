@@ -1,10 +1,6 @@
 <?php
 
-
-
-
-
-echo "hello world wooo";
+echo "hello world git";
 
 
 
